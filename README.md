@@ -1,1 +1,3 @@
 # simple-calculator
+
+Used JS, HTML, CSS
