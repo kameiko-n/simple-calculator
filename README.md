@@ -2,4 +2,4 @@
 
 Used JS, HTML, CSS
 
-[Demo]()
+[Demo]( https://kameiko-n.github.io/simple-calculator/)
